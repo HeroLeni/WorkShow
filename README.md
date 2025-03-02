@@ -9,7 +9,7 @@ Aplicativo Web: Para clientes y trabajadores.
 
 Base de Datos (MySQL): Para almacenar información de usuarios, servicios, transacciones, calificaciones, etc.
 
-Backend (API RESTful en Java con Spring Boot): Gestiona la lógica de negocio, autenticación, pagos y notificaciones.
+Backend (API RESTful en Java con Spring Boot): Gestiona la lógica de negocio, autenticación y notificaciones.
 
 Panel de Administración Web (React.js o Vue.js): Para la gestión y supervisión del sistema.
 
